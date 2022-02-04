@@ -19,7 +19,7 @@
   "homepage": "https://github.com/pluralsight-projects/JS-RatingsCalculator#readme",
   "dependencies": {
     "chai": "^4.2.0",
-    "cheerio": "^1.0.0-rc.3",
+    "cheerio": "^1.0.0-rc.10",
     "cross-env": "^5.2.0",
     "dot-object": "^1.9.0",
     "jscodeshift": "^0.6.4",
